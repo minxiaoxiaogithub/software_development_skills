@@ -9,7 +9,7 @@ description: web 开发规范，web 项目适用，在 base.coding-standards 基
 
 ## 默认技术栈
 
-若开发者无特殊要求，默认使用：React + TypeScript + Sass + Vite
+若开发者无特殊要求，默认使用：React + TypeScript + Sass + Vite + Ant Design
 
 ## 资源文件规范（图片等）
 
