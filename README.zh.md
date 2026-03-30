@@ -1,6 +1,6 @@
 # software_development_skills
 
-[English](README.md)
+[English](README.md) | 中文
 
 一套给 AI 使用的软件开发全流程 skill 文档，覆盖从需求分析到交付的完整链路。
 

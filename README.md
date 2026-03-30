@@ -1,6 +1,6 @@
 # software_development_skills
 
-[中文](README.zh.md)
+English | [中文](README.zh.md)
 
 A set of software development workflow skill documents for AI, covering the complete lifecycle from requirements analysis to delivery.
 
