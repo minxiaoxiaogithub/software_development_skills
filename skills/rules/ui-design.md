@@ -28,7 +28,7 @@ description: UI 设计工具规范，web 项目适用，当前推荐使用 Penci
 
 ## Pencil 使用说明
 
-- 创建文件：用文件系统工具创建 `.pen` 文件，内容写入 `{}`
+- 创建文件：用文件系统工具创建 `.pen` 文件
 - 打开文件：用 Pencil MCP 的 `open_document`
 - 绘制设计稿：通过 Pencil MCP 完成；内容变更后，需要保存.pen文件
 
