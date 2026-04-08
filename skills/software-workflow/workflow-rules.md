@@ -24,6 +24,7 @@ requirements-analysis → software-design → dev-planning → coding → testin
 
 ## 执行规则
 
+- 任务追踪：每次执行多步骤任务时，先在 `docs/` 下创建 `task-<时间戳>.md`，列出所有步骤为 checkbox（`- [ ]`），每完成一步打勾（`- [x]`），子任务同样处理
 - 步骤输出：每个步骤必须先输出标题再输出结果，子步骤逐一执行并输出，输出必须显式，不能跳过或静默
 - 阶段门控：每个阶段是一道门，未通过 review 绝对禁止进入下一阶段，所有 review 遵守 `review-base`
 - 手动模式：收集信息 → 输出产物 → 执行 review → 告知结果并等待开发者明确确认 → 推进下一阶段
